@@ -1,7 +1,7 @@
 # devPool
  devpool Project
 
-
+เข้าไปที่ folder hat ชื่อไฟล์ file devpool.ipynb
 วิธีใช้งาน 
 1. ติดตั้ง python jupyter คำสั่ง pip install jupyter
 2. ติดตั้ง pyspark คำสั่ง pip install pyspark
