@@ -15,7 +15,7 @@
 2. ทำการ New file (python 3 ipykernal) ขึ้นมาดังภาพ จะได้หน้าต่าง jupyter เปล่าๆ
 ![2](https://user-images.githubusercontent.com/37319352/166199665-d45ae4dc-7418-47fe-a45a-22bf952436af.PNG)
 ![3](https://user-images.githubusercontent.com/37319352/166199765-4d8c116a-9558-4c2e-aa92-3f7976bddaf6.PNG)
-3. ทำการ copy code จาก folfer hat file devpool.ipynb ไปใส่ไว้ใน file ที่เราสร้างขึ้นใหม่ จากนั้นทำการ _**shift + enter**_ เพื่อทำการ RUN คำสั่งโดยเริ่มจากคำสั่งส่วนแรกเพื่อทำการ configและ spark ทำงาน
+3. ทำการ copy code จาก folfer hat file devpool.ipynb ไปใส่ไว้ใน file ที่เราสร้างขึ้นใหม่ จากนั้นทำการ `shift + enter` เพื่อทำการ RUN คำสั่ง โดยเริ่มจากคำสั่งส่วนแรกเพื่อทำการ configและ spark ทำงาน
 
 	![4](https://user-images.githubusercontent.com/37319352/166200922-ced89fa2-3e09-4ec6-991c-52d9e99fd15d.png)
 	
